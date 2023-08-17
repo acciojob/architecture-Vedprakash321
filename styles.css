@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
-.imageContaine{
+.imageContainer {
+	width:1100px
+	padding:4px;
+	
 	background-color: #a6a896;
 }
 .column-text{
